@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.1",
-  "ReleaseNotes": "",
+  "Version": "1.0.5",
+  "ReleaseNotes": "Novas Atualizações",
   "UrlUpdate": "https://raw.githubusercontent.com/SilvaMoraess/WS-NET/main/WS%20NET%20UPLOAD",
   "Sms": "https://raw.githubusercontent.com/SilvaMoraess/WS-NET/main/WS%20NET%20SMS",
   "EmailFeedback": "",
@@ -26,8 +26,8 @@
       "Name": "SERVIDOR | 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "3.sshturbo.site",
-      "CheckUser": "http://129.151.35.177:5454/checkUser",
+      "ServerIP": "wsnet.online",
+      "CheckUser": "http://209.14.136.54:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -39,6 +39,39 @@
       "FLAG": "br.png",
       "ServerIP": "wsnet-painel.online",
       "CheckUser": "http://209.14.136.58:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+    {
+      "Name": "SERVIDOR | 03",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "wsnet.host",
+      "CheckUser": "http://209.14.136.7:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+    {
+      "Name": "SERVIDOR | 04",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "ws-net.online",
+      "CheckUser": "http://209.14.2.127:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+    {
+      "Name": "SERVIDOR | 05",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "wsnet5.online",
+      "CheckUser": "http://209.14.2.100:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
